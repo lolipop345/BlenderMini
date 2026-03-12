@@ -1,0 +1,9 @@
+*.rbxl
+*.rbxlx
+*.rbxl.lock
+*.rbxlx.lock
+node_modules/
+Packages/
+ServerPackages/
+.DS_Store
+Thumbs.db
