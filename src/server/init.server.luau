@@ -1,0 +1,1 @@
+--TODO: add plugin widget toolbar and initalize it!

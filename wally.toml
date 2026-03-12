@@ -1,0 +1,10 @@
+[package]
+name = "lolipop345/blendermini"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+fusion = "elttob/fusion@0.3.0"
+trove = "sleitnick/trove@1.8.0"
+goodsignal = "stravant/goodsignal@0.3.1"

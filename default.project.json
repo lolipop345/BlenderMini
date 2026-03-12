@@ -1,0 +1,15 @@
+{
+  "name": "BlenderMini",
+  "tree": {
+    "$className": "Folder",
+    "Packages": {
+      "$path": "Packages"
+    },
+    "Server": {
+      "$path": "src/server"
+    },
+    "Shared": {
+      "$path": "src/shared"
+    }
+  }
+}
